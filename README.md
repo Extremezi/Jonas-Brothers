@@ -5,4 +5,5 @@ Primeiro pass foi a criação das pastas HTML e CSS e logo em seguida a criaçã
 
 Com o Html feito e já linkado apenas falta criar o codigo do Css 
 
+Adição do codigo Css que já está integrado no html e em estado de funcionamento.
 
